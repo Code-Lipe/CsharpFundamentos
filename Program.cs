@@ -1,4 +1,4 @@
 ﻿using CsharpFundamentos.Models;
 
 Operadores testar = new Operadores();
-testar.Logicos(true);
+testar.Aritmeticos(5, 2);

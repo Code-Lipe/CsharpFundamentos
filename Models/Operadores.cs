@@ -92,5 +92,25 @@ namespace CsharpFundamentos.Models
 
             }
         }
+
+        public void Aritmeticos(int valorX, int valorY)
+        {
+            Console.WriteLine("=== CALCULADORA ===");
+            Console.WriteLine($"Somar: {valorX} + {valorY} = {valorX + valorY}");
+            Console.WriteLine("=====================");
+
+            Console.WriteLine($"Subtrair: {valorX} - {valorY} = {valorX - valorY}");
+            Console.WriteLine("=====================");
+
+            Console.WriteLine($"Multiplicar: {valorX} x {valorY} = {valorX * valorY}");
+            Console.WriteLine("=====================");
+
+            Console.WriteLine($"Dividir: {valorX} / {valorY} = {valorX / valorY}");
+            Console.WriteLine("=====================");
+
+            double pot = Math.Pow(valorX, valorY);
+            Console.WriteLine($"Potência: {valorX} ^ {valorY} = {pot}");
+
+        }
     }
 }
