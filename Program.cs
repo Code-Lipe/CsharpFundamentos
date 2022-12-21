@@ -1,4 +1,4 @@
 ﻿using CsharpFundamentos.Models;
 
-Operadores testar = new Operadores();
-testar.Aritmeticos(5, 2);
+EstruturaRepeticao testar = new EstruturaRepeticao();
+testar.MenuInterativo();
