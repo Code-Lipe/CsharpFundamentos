@@ -1,0 +1,12 @@
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\bin\Debug\net7.0\CsharpFundamentos.Common.deps.json
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\bin\Debug\net7.0\CsharpFundamentos.Common.dll
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\bin\Debug\net7.0\CsharpFundamentos.Common.pdb
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.AssemblyInfo.cs
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.dll
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\refint\CsharpFundamentos.Common.dll
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\CsharpFundamentos.Common.pdb
+C:\Users\Felipe\Documents\MeusEstudos\CsharpFundamentos\CsharpFundamentos.Common\obj\Debug\net7.0\ref\CsharpFundamentos.Common.dll
