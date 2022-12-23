@@ -5,9 +5,14 @@ using System.Threading.Tasks;
 
 namespace CsharpFundamentos.Common.Models
 {
+    /// <summary>
+    /// Representa: Array e List com suas funcionalidades básicas
+    /// </summary>
     public class ArrayList
     {
-
+        /// <summary>
+        /// Pecorrendo array com "FOR" e "FOREACH"
+        /// </summary>
         public void TrabalhandoComArray()
         {
             int[] arrayInteiros = new int[4];
@@ -35,6 +40,9 @@ namespace CsharpFundamentos.Common.Models
             }
         }
 
+        /// <summary>
+        /// Saudação com nomes armazenados em uma array
+        /// </summary>
         public void SaudacaoArray()
         {
             string[] namesArray = {"Felipe", "Pedro", "Gabriel"};
@@ -45,6 +53,9 @@ namespace CsharpFundamentos.Common.Models
             }
         }
 
+        /// <summary>
+        /// Uma list com siglas de estados(brasileiros)
+        /// </summary>
         public void TrabalhandoComList()
         {
             List<string> listaString = new List<string>();

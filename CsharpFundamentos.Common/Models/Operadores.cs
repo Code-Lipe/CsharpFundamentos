@@ -5,8 +5,16 @@ using System.Threading.Tasks;
 
 namespace CsharpFundamentos.Common.Models
 {
+    /// <summary>
+    /// Representa: Atribuição, condicionais, lógicos e aritiméticos
+    /// </summary>
     public class Operadores
-    {
+    {   
+        /// <summary>
+        /// Realiza uma soma entre números usando a atribuição 
+        /// </summary>
+        /// <param name="a">Um número inteiro para somar</param>
+        /// <param name="b">Um número inteiro para somar</param>
         public void Atribuicao(int a, int b)
         {
             int c = a + b;
@@ -14,6 +22,10 @@ namespace CsharpFundamentos.Common.Models
             Console.WriteLine($"O resultado entre: {a} + {b} = {c}");
         }
 
+        /// <summary>
+        /// Um menu simples aplicando condicionais
+        /// </summary>
+        /// <param name="quantidadeCompra">Um número inteiro</param>
         public void Condicionais(int quantidadeCompra=0)
         {
             int quantidadeEstoque = 10;
@@ -36,6 +48,9 @@ namespace CsharpFundamentos.Common.Models
             }
         }
 
+        /// <summary>
+        ///  Descobrindo se a letra é uma vogal, aplicando o switch 
+        /// </summary>
         public void CondicionaisSwitch()
         {
             Console.WriteLine("Digite uma letra:");
@@ -56,6 +71,11 @@ namespace CsharpFundamentos.Common.Models
             }
         }
 
+        /// <summary>
+        /// Uma simulação de requesitos para entrar no festival, usando if/else
+        /// </summary>
+        /// <param name="maiorDeIdade">Do tipo booleano, espera true ou false</param>
+        /// <param name="possuiAutorizacao">Do tipo booleano, espera true ou false</param>
         public void Logicos(bool maiorDeIdade, bool possuiAutorizacao=false)
         {
             Console.WriteLine("Bem-vindo(a) ao festival!");
@@ -93,6 +113,11 @@ namespace CsharpFundamentos.Common.Models
             }
         }
 
+        /// <summary>
+        /// Uma calculadora simples, usando tipos aritmeticos
+        /// </summary>
+        /// <param name="valorX">Um número do tipo inteiro</param>
+        /// <param name="valorY">Um número do tipo inteiro</param>
         public void Aritmeticos(int valorX, int valorY)
         {
             Console.WriteLine("=== CALCULADORA ===");

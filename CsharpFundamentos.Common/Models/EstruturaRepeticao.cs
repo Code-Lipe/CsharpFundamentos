@@ -5,11 +5,19 @@ using System.Threading.Tasks;
 
 namespace CsharpFundamentos.Common.Models
 {
+    /// <summary>
+    /// Representa: As estruturas de repetição (while e switch)
+    /// </summary>
     public class EstruturaRepeticao
     {
-        public void Calculadora(int valor, string sinal)
+        /// <summary>
+        /// Uma calculadora mais elaborada 
+        /// </summary>
+        /// <param name="valor">Um número do tipo inteiro</param>
+        /// <param name="sinal">Um operador (*, +, -, /) </param>
+        public void Calculadora(int valor, string operador)
         {
-            switch(sinal)
+            switch(operador)
             {
                 case "*":
                     for(int contador = 0; contador <= 10; contador++)
@@ -42,6 +50,9 @@ namespace CsharpFundamentos.Common.Models
             }
         }
 
+        /// <summary>
+        /// Um menu simples e interativo
+        /// </summary>
         public void MenuInterativo()
         {
             string? opcao;
